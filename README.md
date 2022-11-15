@@ -32,7 +32,7 @@ Please make sure to have the following Python modules installed, most of which s
 
 ## Acknowledgments  
 
-* | ![](<euflag.png>) | This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie SkÅ‚odowska-Curie grant agreement no. 861137. |
+* | ![](<euflag.png>) | This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. |
   |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 * All data used for numerical experiments in this project have been created artificially by the authors.
