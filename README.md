@@ -13,10 +13,12 @@ If you find this code useful, please cite the above-mentioned paper:
 ```BibTeX
 @article{bcn2022,
   author = {Bredies, Kristian and Chenchene, Enis and Naldi, Emanuele},
-  title = {Graph and distributed extensions of the {D}ouglas--{R}achford method},
-  pages = {2211.04782},
-  journal = {ArXiv},
-  year = {2022}
+  title = {Graph and Distributed Extensions of the {D}ouglas-–{R}achford Method},
+  journal = {SIAM Journal on Optimization},
+  volume = {34},
+  number = {2},
+  pages = {1569--1594},
+  year = {2024}
 }
 ```
 
